@@ -1,5 +1,21 @@
 # Iris Classification Project 🌸
 
+This is a beginner-friendly Machine Learning project that classifies Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — using simple classification models.
+
+## Project Structure
+
+- `data/` : Dataset files
+- `notebooks/` : Jupyter notebooks for training and analysis
+- `src/` : (Reserved for future Python scripts)
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
 This project involves the exploration and initial analysis of the famous Iris flower dataset.
 
 ## Goals
@@ -19,12 +35,8 @@ This project involves the exploration and initial analysis of the famous Iris fl
 - Pairplots to observe class separations.
 - Correlation heatmaps to understand feature relationships.
 
-## Future Work
-- Build classification models (Logistic Regression, SVM, etc.)
-- Perform hyperparameter tuning.
-- Deploy the final model.
 
----
+👩‍💻 Shamanta Sristy ✨
 
-👩‍💻 Built with love by Shamanta Sharmin Sristy ✨
+Made with ❤️ while learning Machine Learning!
 
